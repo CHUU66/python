@@ -16,7 +16,7 @@ demos/ # Demo 程式
 
 - face_demo_nosetip.py # 臉部鼻尖偵測
 
-notes/ # 學習筆記 (Notion 匯出 Markdown)
+notion/ # 學習筆記 (Notion 匯出 Markdown)
 
 assets/ # Demo 截圖或影片
 
@@ -32,7 +32,7 @@ README.md # 專案說明文件
 
 ---
 🎥 Demo
-
+ <<整修中>>
 ---
 📌 未來規劃
 
