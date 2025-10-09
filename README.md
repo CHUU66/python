@@ -16,6 +16,10 @@ demos/ # Demo 程式
 
 - face_demo_nosetip.py # 臉部鼻尖偵測
 
+- UDP_server_demo.py // UDP_client_demo.py #簡易UDP sever/client 傳送過程
+
+- UDP_sender_hand.py #偵測食指，傳送座標給unity
+
 notion/ # 學習筆記 (Notion 匯出 Markdown)
 
 assets/ # Demo 截圖或影片
@@ -37,8 +41,6 @@ README.md # 專案說明文件
 📌 未來規劃
 
  加入 Unity + Python 互動範例
-
- 嘗試多人臉偵測
 
  把專案整理成展場互動 demo
 ---
