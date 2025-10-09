@@ -1,4 +1,4 @@
-# python
+# python_mediapipe
 
 建立時間: 2025年10月1日 下午5:22
 
