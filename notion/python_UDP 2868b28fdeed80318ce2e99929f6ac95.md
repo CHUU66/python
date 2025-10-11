@@ -56,7 +56,7 @@ https://shengyu7697.github.io/python-udp-socket/
     ```
     
 
-![image.png](image.png)
+![image 1.png](image 1.png)
 
 - `0.0.0.0` 代表「聽所有來源」，不是單一 IP。
 - 收到了從(127.0.0.1, 49308)這個來源送來的資料。
